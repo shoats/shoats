@@ -22,6 +22,5 @@
 <img align="left" alt="shoats's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shoats&show_icons=true&hide_border=true" />
 
 <summary>Top Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoats)](https://github.com/shoats/github-readme-stats)
-
+<img align="right" alt="shoat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoats&show_icons=true&hide_border=true" />
 [website]: https://shoats.github.io
