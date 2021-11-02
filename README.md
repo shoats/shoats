@@ -1,4 +1,4 @@
-### Hi there, I'm Andrew - [website]
+### Hi there, I'm [Andrew][website]
 
 ## I'm an engineer and dog lover!
 - I'm currently working on learning OpenGL, Rust and JavaScript.
