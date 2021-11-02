@@ -20,12 +20,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shoats's GitHub Stats" src="https://github-readme-stats.shoats.vercel.app/api?username=shoats&show_icons=true&hide_border=true" />
+  <img align="left" alt="shoats's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shoats&show_icons=true&hide_border=true" />
 
 </details>
 
----
-<br />
-<br />
 
 [website]: https://shoats.github.io
