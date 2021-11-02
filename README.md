@@ -20,13 +20,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shoats's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shoats&show_icons=true&hide_border=true" />
+  <img align="left" alt="shoats's GitHub Stats" src="https://github-readme-stats.shoats.vercel.app/api?username=shoats&show_icons=true&hide_border=true" />
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
+<br />
+<br />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[website]: https://shoats.github.io
